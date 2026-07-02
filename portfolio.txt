@@ -1,0 +1,6 @@
+Stock Portfolio Details
+-----------------------
+Stock Name: MSFT
+Price: 320
+Quantity: 20
+Total Investment: 6400
